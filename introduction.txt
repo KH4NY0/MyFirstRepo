@@ -1,0 +1,6 @@
+# Brief Introduction About Myself
+
+My name is Lukhanyo Radebe. I am currently a student at ALX Africa learning about Linux, Git, and Version Control.  
+I’m passionate about technology, creativity, and problem-solving.  
+
+I’m also interested in web design and building digital solutions that make an impact.
