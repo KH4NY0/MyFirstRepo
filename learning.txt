@@ -1,0 +1,4 @@
+# What I’ve Learned So Far
+
+I’ve learned how to use GitHub for version control, create branches, make pull requests, and collaborate with others.
+It’s a powerful way to manage code and track progress in projects.
